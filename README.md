@@ -1,2 +1,2 @@
-# PHYS_362
- Statistical mechanics homework
+# Statistical mechanics tools
+Developed within the context of coursework and/or condensed matter theory research.
